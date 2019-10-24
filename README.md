@@ -1,4 +1,4 @@
-# LACCHAIN #
+# LACCHAIN QUORUM #
 
 ## NOTES
 
